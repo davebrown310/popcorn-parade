@@ -1,0 +1,12 @@
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+*.pidb.meta
+*.suo
+*.tmp
+*.unityproj
+*.DS_Store
